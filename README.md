@@ -3,7 +3,6 @@
 ## 概述
 通过 GitHub Actions 自动在 [Fly.io](https://fly.io/) 上部署 [V2Ray](https://www.v2fly.org/)
 
-
 ## 配置部署
 1. 先到 [Fly.io](https://fly.io/) 注册账号，***注意：注册时要记得绑定信用卡，银联的就行***
 2. GitHub Actions 增加`FLY_API_TOKEN`、`APP_NAME`和`UUID`三个安全字段
